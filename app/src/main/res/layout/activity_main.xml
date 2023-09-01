@@ -136,15 +136,7 @@
             android:textSize="34dp"
             android:textStyle="bold" />
 
-        //TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:text="Develope by Arindam Dutta"
-            android:layout_gravity="center"
-            android:textColor="#CDD1D5"
-            android:textSize="20dp"
-            android:textStyle="bold" />
+
 
         <Button
             style="?android:attr/borderlessButtonStyle"
@@ -163,7 +155,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="Develope by Arindam Dutta"
+            android:text="Developed by Arindam Dutta"
             android:layout_gravity="center"
             android:textColor="#CDD1D5"
             android:textSize="20dp"
