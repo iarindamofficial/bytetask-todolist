@@ -31,7 +31,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="Add new task"
+                    android:text="Add New Task"
                     android:textColor="#0049B7"
                     android:textSize="18dp"
                     android:textStyle="bold"/>
